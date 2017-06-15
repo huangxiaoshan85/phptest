@@ -4,5 +4,5 @@
 		echo 'composer test';
 	}
 	test();
-	
+	echo 12;
 ?>
