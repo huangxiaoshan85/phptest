@@ -1,0 +1,7 @@
+{
+    "name": "huangxiaoshan85/phptest",
+    "description": "study composer knowleage",
+    "license": "123",
+    "minimum-stability": "dev",
+    "require": {}
+}
